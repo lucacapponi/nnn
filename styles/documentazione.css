@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-style:oblique;
+}
+
+h2 {
+    font-size: 40px;
+    margin-bottom: -20px;
+    font-style:italic;
+
+}
+
+h3 {
+    font-size: 25px;
+    margin-bottom: -20px;
+    margin-top: 60px;
+    text-decoration: underline;
+    
+}
+
+h4 {
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: -10px;
+    
+}
+
+p {
+    display: block;
+    font-size: 20px;
+    margin-bottom: -10px;
+}
+
+#communicationstrategy h2 {
+    margin-top: 100px;
+}
+
+#communicationstrategy img {
+    margin-top: 20px;
+}
+
+#home {
+    font-size: 30px;
+    color: #AC3A31;
+}
+
+#home p {
+    font-weight: lighter;
+}
+
+#home a{
+    color: #AC3A31;
+    font-weight: bolder;
+}
+
+#architettura{
+    margin-top: 50px;
+}
